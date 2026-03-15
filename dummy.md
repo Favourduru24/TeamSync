@@ -6,6 +6,8 @@ pnpm dlx shadcn@latest init
 
 pnpm dlx shadcn@latest add tooltip toggle sonner skeleton popover label input form dropdown-menu dialog collapsible card button avatar
 
+pnpm add @orpc/server@latest @orpc/client@latest
+
 <img
       src="/_astro/dashboardLight.DuO0a6ir_ZAsbTj.svg"
       loading="eager"
