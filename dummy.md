@@ -16,3 +16,15 @@ pnpm dlx shadcn@latest add tooltip toggle sonner skeleton popover label input fo
       height="1200"
       class="object-cover h-full"
     />
+yyy
+
+  
+const Page = () => {
+    return (
+       <div>
+        
+       </div>  
+    )
+}
+
+export default Page
