@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@kinde-oss/kinde-auth-nextjs": "^2.11.0",
+    "@kinde/management-api-js": "^0.15.0",
     "@orpc/client": "^1.13.7",
     "@orpc/server": "^1.13.7",
     "@orpc/tanstack-query": "^1.13.7",
